@@ -1,0 +1,8 @@
+out/
+cache/
+.env
+__pycache__/
+*.backup-*.xlsx
+.claude/
+.pick
+данные/

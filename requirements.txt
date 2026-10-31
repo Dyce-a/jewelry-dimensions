@@ -1,0 +1,5 @@
+pillow>=10.0
+opencv-python>=4.9
+numpy>=1.26
+requests>=2.31
+openpyxl>=3.1
